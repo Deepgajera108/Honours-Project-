@@ -25,7 +25,7 @@ understand the behavior of electrons in the Knight shift conditions, we employ p
 a clear relationship between susceptibility and temperature across various doping levels, chemical potential, and density of states.
 Our research addresses the significance of half-filling in the 2D Hubbard model,
 examining the connections between the density of states and chemical potential for
-different doping levels. We also explored the relationship between the Hubbard interaction constant (U), magnetic susceptibility (χsp), temperature, and doping.
+different doping levels. We also explored the relationship between the Hubbard interaction constant (U), magnetic susceptibility (χsp), temperature, and doping.
 
 ## Contact
 For any queries or further discussion, feel free to contact me at dbgajera@mun.ca.
