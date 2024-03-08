@@ -7,7 +7,7 @@ using Algorithmic Matsubara Integration(AMI).
 ## Contents
 - `Thesis.pdf`: The final thesis document detailing the research, methodology, and findings.
 - `/Documentation`: Additional documents, including project proposals, presentations, and any supplementary material.
-- `/Code`: Source code used for simulations and data analysis. Each sub-directory is structured based on the component it represents (e.g., AMI simulations, Monte Carlo integrations).
+- `/Code`: Source code used for simulations and data analysis. Please contact if you need help with any component of the theis. (e.g., AMI simulations, Monte Carlo integrations).
 
 ## Getting Started
 To replicate the research or explore the findings, please follow the instructions in each code sub-directory. 
