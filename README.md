@@ -34,3 +34,7 @@ For any queries or further discussion, feel free to contact me at dbgajera@mun.c
 I would like to express my deepest gratitude and appreciation to my supervisor, Dr.
 James LeBlanc, for their invaluable guidance, unwavering support, and exceptional
 mentorship throughout the entire process of completing this thesis.
+
+## Original code
+This is the link to my professor/supervisor's Github which contains all the details of the noval matubara integration algorithm called AMI.
+https://github.com/jpfleblanc/libami/blob/main/README.md
